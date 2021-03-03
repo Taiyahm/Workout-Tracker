@@ -3,7 +3,7 @@
 
 ## Description
 
-In this app a user can create and track their daily workouts. The user can add cardio workouts were they can track their distance traveled and resistance workouts were they can track weight,sets, and reps. 
+In this app a user can create and track their daily workouts. The user can add cardio workouts where they can track their distance traveled and resistance workouts were they can track weight,sets,and reps.
 
 ## Table of Contents 
 
