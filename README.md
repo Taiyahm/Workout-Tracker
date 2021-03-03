@@ -34,6 +34,9 @@ npm i
 
 *View the total duration of each workout from the past seven workouts on the `stats` page.
 
+![image](https://user-images.githubusercontent.com/72588525/109782308-bda72e00-7bd6-11eb-86c4-648770a1c80e.png)
+
+![image](https://user-images.githubusercontent.com/72588525/109782477-f0e9bd00-7bd6-11eb-9ee0-da11000d94bf.png)
 
 
 
