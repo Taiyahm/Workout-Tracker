@@ -13,7 +13,7 @@ In this app a user can create and track their daily workouts. The user can add c
 
 * [License](#license)
 
-* [Contributing](#contributing)
+* [Questions](#questions)
 
 ## Installation
 
@@ -44,9 +44,6 @@ npm i
 
 This project is licensed under the MIT license.
   
-## Contributing
-
-
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at Taiyahm23@gmail.com. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
