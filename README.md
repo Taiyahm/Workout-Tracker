@@ -11,6 +11,8 @@ In this app a user can create and track their daily workouts. The user can add c
 
 * [Features](#features)
 
+* [Technologies] (#technologies)
+
 * [License](#license)
 
 * [Questions](#questions)
@@ -34,11 +36,22 @@ npm i
 
 *View the total duration of each workout from the past seven workouts on the `stats` page.
 
+
 ![image](https://user-images.githubusercontent.com/72588525/109782870-5e95e900-7bd7-11eb-97a3-ebcf97803e1e.png)
 
 ![image](https://user-images.githubusercontent.com/72588525/109782477-f0e9bd00-7bd6-11eb-9ee0-da11000d94bf.png)
 
 ![image](https://user-images.githubusercontent.com/72588525/109784042-aa955d80-7bd8-11eb-8ca3-a38dd3ffdd06.png)
+
+## Technologies
+
+* Mongoose
+
+* Mongodb
+
+* Express
+
+* Morgan 
 
 ## License
 
