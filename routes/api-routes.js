@@ -41,7 +41,7 @@ router.get('/api/workouts/range', function(req, res) {
 		.then((dbWorkout) => {
 			res.json(dbWorkout);
 		})
-		.catch(({ message }) => {
+		.catch(({err}) => {
 			res.json(err);
 		});
 });
