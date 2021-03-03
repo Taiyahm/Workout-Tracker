@@ -4,6 +4,7 @@ const mongoose = require('mongoose');
 
 const PORT = process.env.PORT || 3000;
 
+// Creates express app
 const app = express();
 
 app.use(express.urlencoded({ extended: true }));
@@ -22,7 +23,7 @@ mongoose.connect(process.env.MONGODB_URI ||	'mongodb+srv://new-user:riley@cluste
 	}
 );
 
-
+// API and HTML routes
 app.use(require('./routes/api-routes.js'));
 app.use(require('./routes/html-routes.js'));
 

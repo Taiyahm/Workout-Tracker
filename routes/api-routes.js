@@ -1,7 +1,9 @@
+// Imports workout model
 const db = require('../models');
+// Imports the express router
 const router = require('express').Router();
 
-
+// Get request for all workouts
 router.get("/api/workouts", (req, res) => {
 	db.Workout.find({})
 		.then((dbWorkout) => {
@@ -12,6 +14,7 @@ router.get("/api/workouts", (req, res) => {
 		});
 });
 
+// POST workouts
 router.post("/api/workouts", ({ body }, res) => {
 	db.Workout.create(body)
 		.then((dbWorkout) => {
@@ -22,7 +25,7 @@ router.post("/api/workouts", ({ body }, res) => {
 		});
 });
 
-
+//Updates workouts
 router.put("/api/workouts/:id", (req, res) => {
 	db.Workout.findOneAndUpdate({ _id: req.params.id }, { $push: { exercises: req.body } })
 		.then((dbWorkout) => {
@@ -44,4 +47,5 @@ router.get("/api/workouts/range", (req, res) => {
 		});
 });
 
+// Exports API route
 module.exports = router;
