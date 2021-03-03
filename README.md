@@ -9,7 +9,7 @@ In this app a user can create and track their daily workouts. The user can add c
 
 * [Installation](#installation)
 
-* [Usage](#usage)
+* [Features](#features)
 
 * [License](#license)
 
@@ -38,7 +38,7 @@ npm i
 
 ![image](https://user-images.githubusercontent.com/72588525/109782477-f0e9bd00-7bd6-11eb-9ee0-da11000d94bf.png)
 
-
+![image](https://user-images.githubusercontent.com/72588525/109784042-aa955d80-7bd8-11eb-8ca3-a38dd3ffdd06.png)
 
 ## License
 
