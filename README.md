@@ -15,10 +15,6 @@ In this app a user can create and track their daily workouts. The user can add c
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
-
-* [Questions](#questions)
-
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -37,15 +33,6 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-
-
-## Tests
-
-To run tests, run the following command:
-
-```
-npm test
-```
 
 ## Questions
 
