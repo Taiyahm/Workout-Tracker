@@ -23,7 +23,17 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 
-## Usage
+## Features
+* Add a resistance work out with weight,sets,and reps.
+
+* Add a cardio work out.
+
+* Add new exercises to a new workout plan.
+
+* View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
+
+View the total duration of each workout from the past seven workouts on the `stats` page.
+
 
 
 
