@@ -37,7 +37,7 @@ npm i
 * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 
-* [ Fitness Tracker link](# https://app-workout-tracker.herokuapp.com/)
+* [ Fitness Tracker link](#https://app-workout-tracker.herokuapp.com/)
 
 
 ![image](https://user-images.githubusercontent.com/72588525/109782870-5e95e900-7bd7-11eb-97a3-ebcf97803e1e.png)
