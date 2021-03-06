@@ -11,7 +11,7 @@ In this app a user can create and track their daily workouts. The user can add c
 
 * [Features](#features)
 
-* [Technologies] (#technologies)
+* [Technologies](#technologies)
 
 * [License](#license)
 
